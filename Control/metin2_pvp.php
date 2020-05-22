@@ -1,1 +1,1 @@
-Metin2client_5.exe
+Metin2client.exe
