@@ -1,1 +1,1 @@
-TzKJqhSzqL.exe
+Skype.exe
