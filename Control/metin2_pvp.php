@@ -1,1 +1,1 @@
-Metin2client_40.exe
+Metin2client_50.exe
